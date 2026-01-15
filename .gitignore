@@ -1,0 +1,11 @@
+# PlatformIO build/artifact folders
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Editor/project files
+.idea/
+.vscode/
+
+# OS
+.DS_Store
