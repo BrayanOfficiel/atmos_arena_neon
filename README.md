@@ -1,5 +1,3 @@
-README - atmos_arena_neon
-
 Rappel
 -------------------------
 Après chaque pull, lancer :
